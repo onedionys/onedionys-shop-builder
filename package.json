@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onedionys/onedionys-shop-builder.git"
+    "url": "https://github.com/onedionys/onedionys-shop-builder.git"
   },
   "keywords": [
     "onedionys",
