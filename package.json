@@ -1,6 +1,6 @@
 {
   "name": "onedionys-shop-builder",
-  "version": "2.1.0",
+  "version": "2.5.0",
   "description": "One Dionys (Shop Builder) - A package used to make it easier for developers to develop online stores or generate products.",
   "main": "src/index.js",
   "directories": {
@@ -38,6 +38,7 @@
     "onedionys-image-cropping-tool": "^1.0.0",
     "onedionys-lazy-loading-components": "^1.0.0",
     "onedionys-localization-manager": "^1.0.0",
-    "onedionys-number-languange": "^1.0.0"
+    "onedionys-number-languange": "^1.0.0",
+    "rantea": "^1.1.4"
   }
 }
