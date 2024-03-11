@@ -1,6 +1,6 @@
 {
   "name": "onedionys-shop-builder",
-  "version": "2.5.2",
+  "version": "4.0.0",
   "description": "One Dionys (Shop Builder) - A package used to make it easier for developers to develop online stores or generate products.",
   "main": "src/index.js",
   "directories": {
