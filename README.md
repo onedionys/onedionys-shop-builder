@@ -40,6 +40,7 @@ shopBuilder(number)
 * v2.1.0 : 08 March 2024
 * v2.5.0 : 10 March 2024
 * v2.5.1 : 10 March 2024
+* v2.5.2 : 11 March 2024
 
 ## 🧑 Author
 
